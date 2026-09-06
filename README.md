@@ -39,7 +39,7 @@ Actualmente estoy desarrollando proyectos enfocados en:
 ### Movilidad urbana — Ecobici CDMX
 Análisis de viajes del sistema Ecobici para identificar patrones de demanda según ubicación, horario, día de la semana y flujos de movilidad entre alcaldías.
 
-**Herramientas:** Python · Pandas · análisis geográfico · visualización de datos
+**Herramientas:** Python · Pandas · Matplotlib · Seaborn · Tableau
 
 > Proyecto en desarrollo
 
