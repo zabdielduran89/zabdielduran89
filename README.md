@@ -33,3 +33,19 @@ Actualmente estoy desarrollando proyectos enfocados en:
 - 🛒 Comportamiento y análisis de clientes
 - 📈 Análisis comercial y de operaciones
 - 📊 Visualización y comunicación de datos
+
+## Proyectos destacados
+
+### Movilidad urbana — Ecobici CDMX
+Análisis de viajes del sistema Ecobici para identificar patrones de demanda según ubicación, horario, día de la semana y flujos de movilidad entre alcaldías.
+
+**Herramientas:** Python · Pandas · análisis geográfico · visualización de datos
+
+> Proyecto en desarrollo
+
+### Análisis de e-commerce
+Proyecto de análisis exploratorio de datos orientado a comprender el comportamiento de clientes y detectar patrones relevantes para la toma de decisiones comerciales.
+
+**Herramientas:** Python · Pandas · Tableau
+
+>  Próximamente
