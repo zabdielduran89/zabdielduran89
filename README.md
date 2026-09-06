@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! Soy Zabdiel Durán 👋
 
-<!--
-**zabdielduran89/zabdielduran89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista de Datos Jr. certificado
 
-Here are some ideas to get you started:
+Estoy construyendo mi carrera en análisis de datos combinando mi experiencia en áreas comerciales y gestión de clientes con conocimientos técnicos en Python, SQL y herramientas de visualización.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa especialmente utilizar los datos para comprender el comportamiento de clientes, analizar operaciones y descubrir patrones que ayuden a tomar mejores decisiones.
+
+📍 Estado de México, México  
+💼 Buscando oportunidades como Analista de Datos Jr.
+
+## 🛠️ Tecnologías y herramientas
+
+**Lenguajes:** Python · SQL
+
+**Análisis de datos:** Pandas · NumPy · EDA · Machine Learning
+
+**Visualización:** Tableau · Matplotlib · Seaborn · Streamlit
+
+**Bases de datos:** PostgreSQL · MySQL
+
+**Herramientas:** Jupyter Notebook · GitHub · VS Code · Anaconda · Render
+
+**Estadística:** Pruebas A/B · Prueba de proporciones Z · Prueba t de Student · Prueba de Mann-Whitney
