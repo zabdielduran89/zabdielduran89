@@ -41,7 +41,7 @@ Análisis de viajes del sistema Ecobici para identificar patrones de demanda seg
 
 **Herramientas:** Python · Pandas · Matplotlib · Seaborn · Tableau
 
-> Proyecto en desarrollo
+(https://public.tableau.com/app/profile/zabdiel.dur.n.mu.oz/viz/Ecobici_CDMX_Analisis/Dashboard1)
 
 ### Análisis de e-commerce
 Proyecto de análisis exploratorio de datos orientado a comprender el comportamiento de clientes y detectar patrones relevantes para la toma de decisiones comerciales.
