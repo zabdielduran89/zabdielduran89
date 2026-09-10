@@ -6,8 +6,7 @@ Soy Analista de Datos Jr. con experiencia en áreas comerciales, operaciones y g
 
 Durante mi formación en análisis de datos desarrollé proyectos de limpieza, transformación, exploración y visualización de datos, utilizando herramientas como Python, SQL, Tableau y Streamlit.
 
-Me interesa especialmente aplicar el análisis de datos en áreas de ventas, operaciones, customer analytics y movilidad urbana.
-
+Me interesa especialmente aplicar el análisis de datos en áreas de ventas, operaciones y customer analytics, así como en proyectos relacionados con movilidad urbana.
 ---
 
 ## 🛠️ Tecnologías y herramientas
@@ -37,7 +36,7 @@ Análisis de la demanda y patrones de movilidad del sistema Ecobici en Ciudad de
 - Flujos de movilidad entre alcaldías
 - Visualización interactiva en Tableau
 
-**Tecnologías:** Python | Pandas | Matplotlib | Seaborn | Tableau
+**Stack:** Python | Pandas | Matplotlib | Seaborn | Tableau
 
 [Ver proyecto en GitHub](https://github.com/zabdielduran89/ecobici-cdmx-movilidad)
 
