@@ -2,50 +2,58 @@
 
 ### Analista de Datos Jr. certificado
 
-Estoy construyendo mi carrera en análisis de datos combinando mi experiencia en áreas comerciales y gestión de clientes con conocimientos técnicos en Python, SQL y herramientas de visualización.
+Soy Analista de Datos Jr. con experiencia en áreas comerciales, operaciones y gestión de clientes. Combino esta experiencia con conocimientos prácticos en Python, SQL, Pandas y herramientas de visualización para analizar información y encontrar oportunidades de mejora.
 
-Me interesa especialmente utilizar los datos para comprender el comportamiento de clientes, analizar operaciones y descubrir patrones que ayuden a tomar mejores decisiones.
+Durante mi formación en análisis de datos desarrollé proyectos de limpieza, transformación, exploración y visualización de datos, utilizando herramientas como Python, SQL, Tableau y Streamlit.
 
-📍 Estado de México, México  
-💼 Buscando oportunidades como Analista de Datos Jr.
+Me interesa especialmente aplicar el análisis de datos en áreas de ventas, operaciones, customer analytics y movilidad urbana.
+
+---
 
 ## 🛠️ Tecnologías y herramientas
 
-**Lenguajes:** Python · SQL
+**Lenguajes:** Python | SQL
 
-**Análisis de datos:** Pandas · NumPy · EDA · Machine Learning
+**Análisis de datos:** Pandas | NumPy
 
-**Visualización:** Tableau · Matplotlib · Seaborn · Streamlit
+**Visualización:** Tableau | Matplotlib | Seaborn
 
-**Bases de datos:** PostgreSQL · MySQL
+**Bases de datos:** PostgreSQL | MySQL
 
-**Herramientas:** Jupyter Notebook · GitHub · VS Code · Anaconda · Render
+**Herramientas:** GitHub | Jupyter Notebook | VS Code | Streamlit | Render
 
-**Estadística:** Pruebas A/B · Prueba de proporciones Z · Prueba t de Student · Prueba de Mann-Whitney
+**Estadística:** EDA | Pruebas A/B | Prueba Z | Prueba t de Student | Mann-Whitney
 
-## 📊 En qué me enfoco
+---
 
-Me interesa aplicar el análisis de datos en contextos donde la información pueda ayudar a comprender mejor el comportamiento de clientes, operaciones y mercados.
+## 📊 Proyectos destacados
 
-Actualmente estoy desarrollando proyectos enfocados en:
+### 🚲 Movilidad urbana — Ecobici CDMX
 
-- 🗺️ Movilidad urbana y análisis geográfico
-- 🛒 Comportamiento y análisis de clientes
-- 📈 Análisis comercial y de operaciones
-- 📊 Visualización y comunicación de datos
+Análisis de la demanda y patrones de movilidad del sistema Ecobici en Ciudad de México.
 
-## Proyectos destacados
+- Análisis temporal por día y hora
+- Análisis de estaciones y alcaldías
+- Flujos de movilidad entre alcaldías
+- Visualización interactiva en Tableau
 
-### Movilidad urbana — Ecobici CDMX
-Análisis de viajes del sistema Ecobici para identificar patrones de demanda según ubicación, horario, día de la semana y flujos de movilidad entre alcaldías.
+**Tecnologías:** Python | Pandas | Matplotlib | Seaborn | Tableau
 
-**Herramientas:** Python · Pandas · Matplotlib · Seaborn · Tableau
+[Ver proyecto en GitHub](https://github.com/zabdielduran89/ecobici-cdmx-movilidad)
 
-(https://public.tableau.com/app/profile/zabdiel.dur.n.mu.oz/viz/Ecobici_CDMX_Analisis/Dashboard1)
+[Ver dashboard en Tableau Public](https://public.tableau.com/app/profile/zabdiel.dur.n.mu.oz/viz/Ecobici_CDMX_Analisis/Dashboard1)
 
-### Análisis de e-commerce
-Proyecto de análisis exploratorio de datos orientado a comprender el comportamiento de clientes y detectar patrones relevantes para la toma de decisiones comerciales.
+### 🛒 Análisis de e-commerce
 
-**Herramientas:** Python · Pandas · Tableau
+Proyecto de análisis de datos de comercio electrónico para identificar patrones de comportamiento y oportunidades de negocio.
 
->  Próximamente
+**Tecnologías:** Python | Pandas | Tableau
+
+> Próximamente
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/zabdiel-duran-munoz-data-analyst/)
+- 🐙 [GitHub](https://github.com/zabdielduran89)
